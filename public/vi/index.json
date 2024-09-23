@@ -1,0 +1,71 @@
+[
+{
+	"uri": "//localhost:1313/vi/1-introduction/",
+	"title": "Giới thiệu",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan Kubernetes (K8s) là một nền tảng nguồn mở, có thể mở rộng để quản lý các ứng dụng được đóng gói và các service, giúp thuận lợi trong việc cấu hình và tự động hoá việc triển khai ứng dụng.\nTrong bài lab này, chúng ta sẽ tạo một Kubernetes Cluster đơn giản trên AWS EKS (Elastic Kubernetes Service). Sau đó, mình sẽ triển khai trang web trên cluster và sử dụng AWS CodePipeLine để triển khai tự động. Content Giới thiệu Các bước chuẩn bị Tạo EKS cluster Tạo Code Pipeline Dọn dẹp tài nguyên "
+},
+{
+	"uri": "//localhost:1313/vi/",
+	"title": "Giới thiệu",
+	"tags": [],
+	"description": "",
+	"content": "Tổng quan Kubernetes (K8s) là một nền tảng nguồn mở, có thể mở rộng để quản lý các ứng dụng được đóng gói và các service, giúp thuận lợi trong việc cấu hình và tự động hoá việc triển khai ứng dụng.\nTrong bài lab này, chúng ta sẽ tạo một Kubernetes Cluster đơn giản trên AWS EKS (Elastic Kubernetes Service). Sau đó, mình sẽ triển khai trang web trên cluster và sử dụng AWS CodePipeLine để triển khai tự động. Content Giới thiệu Các bước chuẩn bị Tạo EKS cluster Tạo Code Pipeline Dọn dẹp tài nguyên "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/1-createkeypair/",
+	"title": "Create Key Pair",
+	"tags": [],
+	"description": "",
+	"content": "Create Key Pair Go to Amazon EC2 console. On the left navigation bar, click Key Pairs. Click Create key pair. In the Create key pair page In the Name section, type KPforDevAxInstances In the Key pair type section, Select RSA In the Private key file format section, select .pem -Click Create key pair Save file key pair to use in the next step. "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/2-createacloudformationstack/",
+	"title": "Create Key Pair",
+	"tags": [],
+	"description": "",
+	"content": "Create Key Pair Go to Amazon EC2 console. On the left navigation bar, click Key Pairs. Click Create key pair. In the Create key pair page In the Name section, type KPforDevAxInstances In the Key pair type section, Select RSA In the Private key file format section, select .pem -Click Create key pair Save file key pair to use in the next step. "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/",
+	"title": "Preparation",
+	"tags": [],
+	"description": "",
+	"content": "Overview In this section, we will create the Key Pair, create the CloudFormation stack, Connect to the Windows instance, Setup the Database and download Project.\nContent: Create the Key Pair Create the CloudFormation stack Connect to the Windows instance Setup the Database Download the Project "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/3-connecttothewindowsinstance/",
+	"title": "Create Key Pair",
+	"tags": [],
+	"description": "",
+	"content": "Create Key Pair Go to Amazon EC2 console. On the left navigation bar, click Key Pairs. Click Create key pair. In the Create key pair page In the Name section, type KPforDevAxInstances In the Key pair type section, Select RSA In the Private key file format section, select .pem -Click Create key pair Save file key pair to use in the next step. "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/4-setupthedatabase/",
+	"title": "Create Key Pair",
+	"tags": [],
+	"description": "",
+	"content": "Create Key Pair Go to Amazon EC2 console. On the left navigation bar, click Key Pairs. Click Create key pair. In the Create key pair page In the Name section, type KPforDevAxInstances In the Key pair type section, Select RSA In the Private key file format section, select .pem -Click Create key pair Save file key pair to use in the next step. "
+},
+{
+	"uri": "//localhost:1313/vi/2-preparation/5-downloadproject/",
+	"title": "Create Key Pair",
+	"tags": [],
+	"description": "",
+	"content": "Create Key Pair Go to Amazon EC2 console. On the left navigation bar, click Key Pairs. Click Create key pair. In the Create key pair page In the Name section, type KPforDevAxInstances In the Key pair type section, Select RSA In the Private key file format section, select .pem -Click Create key pair Save file key pair to use in the next step. "
+},
+{
+	"uri": "//localhost:1313/vi/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/vi/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
